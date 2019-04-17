@@ -1,6 +1,6 @@
 # JetPack
 
-![](https://raw.githubusercontent.com/xuehuayous/Android-KnowledgeGraph/master/images/jetpack-hero.png)
+<img src="https://raw.githubusercontent.com/xuehuayous/Android-KnowledgeGraph/master/images/jetpack-hero.png" width="200">
 
 ## JetPack是什么？
 
